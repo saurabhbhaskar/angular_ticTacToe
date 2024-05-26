@@ -1,0 +1,14 @@
+.notification {
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.success { 
+    background-color: green; 
+}
+
+.info { 
+    background-color: blue; 
+}
